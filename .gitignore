@@ -1,0 +1,5 @@
+this is git ignore files 
+files in this are no longer accpected by the git 
+*.txt
+*.xml
+
